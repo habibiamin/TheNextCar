@@ -1,0 +1,17 @@
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\obj\Debug\netcoreapp3.1\TheNextCar.csprojAssemblyReference.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\obj\Debug\netcoreapp3.1\App.g.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\obj\Debug\netcoreapp3.1\TheNextCar_MarkupCompile.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\obj\Debug\netcoreapp3.1\TheNextCar_MarkupCompile.lref
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\bin\Debug\netcoreapp3.1\TheNextCar.exe
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\bin\Debug\netcoreapp3.1\TheNextCar.deps.json
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\bin\Debug\netcoreapp3.1\TheNextCar.runtimeconfig.json
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\bin\Debug\netcoreapp3.1\TheNextCar.runtimeconfig.dev.json
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\bin\Debug\netcoreapp3.1\TheNextCar.dll
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\bin\Debug\netcoreapp3.1\TheNextCar.pdb
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\obj\Debug\netcoreapp3.1\TheNextCar.g.resources
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\obj\Debug\netcoreapp3.1\TheNextCar.AssemblyInfoInputs.cache
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\obj\Debug\netcoreapp3.1\TheNextCar.AssemblyInfo.cs
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\obj\Debug\netcoreapp3.1\TheNextCar.dll
+D:\TUGAS\Semester 3\Pemrograman Lanjut\TheNextCar\TheNextCar\obj\Debug\netcoreapp3.1\TheNextCar.pdb
